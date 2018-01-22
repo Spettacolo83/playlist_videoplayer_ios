@@ -72,6 +72,8 @@ http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/ent
 ```
 
 ## Preview
+[Test it online on Appetize.io](https://appetize.io/app/82m7degneem5u4gy0chyz8rm34?device=iphonex&scale=75&orientation=portrait&osVersion=11.1&deviceColor=black&proxy=intercept&debug=false)
+
 ![ScreenShot](https://github.com/Spettacolo83/playlist_videoplayer_ios/raw/master/screenshot_1.png)
 ![ScreenShot](https://github.com/Spettacolo83/playlist_videoplayer_ios/raw/master/screenshot_2.png)
 ![ScreenShot](https://github.com/Spettacolo83/playlist_videoplayer_ios/raw/master/screenshot_3.png)
